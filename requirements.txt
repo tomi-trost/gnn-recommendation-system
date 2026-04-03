@@ -1,0 +1,13 @@
+networkx>=3.2
+matplotlib>=3.8
+numpy>=1.26
+scipy>=1.11
+notebook>=7.0
+
+# Optional but recommended
+tqdm>=4.66
+pandas>=2.1
+
+# For later GNN work
+torch>=2.2
+torch-geometric>=2.5
