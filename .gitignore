@@ -34,3 +34,7 @@ Thumbs.db
 # PyTorch / checkpoints
 *.pt
 *.pth
+
+# Miscelanous
+chat.txt
+report.tex
