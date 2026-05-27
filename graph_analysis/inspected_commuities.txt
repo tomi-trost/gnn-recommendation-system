@@ -1,0 +1,153 @@
+python inspect_communities.py
+Item projection: 7707 nodes, 2596599 edges
+Item names loaded: 10978
+
+Detected 8 communities, sizes: [2308, 1461, 1057, 991, 36, 26, 17, 15]
+
+============================================================
+
+Community 1  (2308 items)
+--------------------------------------------------
+  Counter-Strike: Global Offensive               strength=3,176,089
+  Garry's Mod                                    strength=3,171,509
+  Unturned                                       strength=2,445,191
+  Left 4 Dead 2                                  strength=2,321,918
+  Terraria                                       strength=2,144,595
+  PAYDAY 2                                       strength=1,823,528
+  Warframe                                       strength=1,725,921
+  Rust                                           strength=1,293,685
+  Robocraft                                      strength=1,269,312
+  PlanetSide 2                                   strength=1,259,528
+  War Thunder                                    strength=1,024,553
+  Trove                                          strength=993,062
+  Heroes & Generals                              strength=975,725
+  Loadout                                        strength=910,299
+  Dirty Bomb                                     strength=906,609
+
+Community 2  (1461 items)
+--------------------------------------------------
+  Portal 2                                       strength=939,708
+  Counter-Strike: Source                         strength=625,198
+  Half-Life 2                                    strength=575,307
+  Portal                                         strength=520,254
+  The Binding of Isaac                           strength=471,981
+  Starbound                                      strength=432,803
+  Don't Starve                                   strength=409,711
+  FTL: Faster Than Light                         strength=389,386
+  Magicka                                        strength=353,142
+  The Binding of Isaac: Rebirth                  strength=314,515
+  Awesomenauts                                   strength=281,941
+  Super Meat Boy                                 strength=264,800
+  Goat Simulator                                 strength=257,188
+  Hotline Miami                                  strength=251,844
+  Risk of Rain                                   strength=231,330
+
+Community 3  (1057 items)
+--------------------------------------------------
+  The Elder Scrolls V: Skyrim                    strength=1,764,325
+  Borderlands 2                                  strength=1,605,625
+  Saints Row: The Third                          strength=1,059,596
+  Fallout: New Vegas                             strength=971,481
+  Fallout 4                                      strength=934,144
+  Killing Floor                                  strength=839,151
+  BioShock Infinite                              strength=785,664
+  Grand Theft Auto V                             strength=757,753
+  Just Cause 2                                   strength=741,841
+  Saints Row IV                                  strength=734,048
+  Far Cry® 3                                     strength=689,019
+  Dead Island                                    strength=683,071
+  Tomb Raider                                    strength=601,740
+  Grand Theft Auto IV                            strength=598,205
+  Borderlands                                    strength=596,037
+
+Community 4  (991 items)
+--------------------------------------------------
+  Sid Meier's Civilization V                     strength=722,480
+  Chivalry: Medieval Warfare                     strength=464,710
+  Arma 2: Operation Arrowhead                    strength=450,384
+  DayZ                                           strength=439,332
+  Arma 3                                         strength=424,473
+  Mount & Blade: Warband                         strength=415,854
+  XCOM: Enemy Unknown                            strength=345,673
+  Age of Empires II: HD Edition                  strength=321,924
+  Space Engineers                                strength=315,891
+  Total War: SHOGUN 2                            strength=312,459
+  Prison Architect                               strength=297,510
+  Total War: ROME II - Emperor Edition           strength=277,772
+  Kerbal Space Program                           strength=274,112
+  Cities: Skylines                               strength=237,986
+  STAR WARS™ Battlefront™ II                     strength=236,488
+
+Community 5  (36 items)
+--------------------------------------------------
+  The Lab                                        strength=1,344
+  Job Simulator                                  strength=960
+  Tilt Brush                                     strength=890
+  Space Pirate Trainer                           strength=859
+  Raw Data                                       strength=635
+  Audioshield                                    strength=603
+  Rec Room                                       strength=596
+  Hot Dogs, Horseshoes & Hand Grenades           strength=581
+  Fantastic Contraption                          strength=555
+  Vanishing Realms                               strength=499
+  Hover Junkers                                  strength=498
+  The Gallery - Episode 1: Call of the Starseed  strength=386
+  Out of Ammo                                    strength=384
+  Pool Nation VR                                 strength=370
+  Holopoint                                      strength=361
+
+Community 6  (26 items)
+--------------------------------------------------
+  Gaokao.Love.100Days                            strength=272
+  CLANNAD                                        strength=265
+  Oblivious Garden ~Carmina Burana               strength=264
+  Hate Plus                                      strength=263
+  Nicole (otome version)                         strength=259
+  Root Double -Before Crime * After Days- Xtend Edition  strength=257
+  1943 Megami Strike                             strength=257
+  A Kiss for the Petals - Remembering How We Met  strength=257
+  An Octave Higher                               strength=257
+  Getsuei Gakuen -kou-                           strength=257
+  Hero and Daughter+                             strength=257
+  Taimumari                                      strength=257
+  How to Take Off Your Mask                      strength=257
+  Forget Me Not: My Organic Garden               strength=257
+  Blood Code                                     strength=257
+
+Community 7  (17 items)
+--------------------------------------------------
+  Mortal Kombat: Legacy                          strength=194
+  Mortal Kombat: Legacy II: Scorpion and Sub-Zero (Part 2)  strength=188
+  Mortal Kombat: Legacy II: Kenshi's Origin      strength=188
+  Mortal Kombat: Legacy II: Scorpion and Sub-Zero (Part 1)  strength=183
+  Mortal Kombat: Legacy: Raiden                  strength=181
+  Mortal Kombat: Legacy: Scorpion and Sub-Zero (Part 1)  strength=178
+  Mortal Kombat: Legacy: Cyrax & Sektor          strength=178
+  Mortal Kombat: Legacy II: Reunited in Macau    strength=171
+  Mortal Kombat: Legacy II: Liu Kang and Kung Lao  strength=166
+  Mortal Kombat: Legacy: Kitana & Mileena (Part 1)  strength=165
+  Mortal Kombat: Legacy II: Kenshi Encounters Ermac  strength=164
+  Mortal Kombat: Legacy: Jax, Sonya and Kano (Part 2)  strength=157
+  Mortal Kombat: Legacy: Kitana & Mileena (Part 2)  strength=157
+  Mortal Kombat: Legacy II: The Fall of Liu Kang  strength=153
+  Mortal Kombat: Legacy II: Johnny Cage          strength=153
+
+Community 8  (15 items)
+--------------------------------------------------
+  7,62 High Calibre                              strength=153
+  A.I.M.2 Clan Wars                              strength=153
+  7 Wonders: Ancient Alien Makeover              strength=153
+  9th Company - Roots of Terror                  strength=153
+  3SwitcheD                                      strength=153
+  8-Bit Commando                                 strength=153
+  1953 - KGB Unleashed                           strength=153
+  199X                                           strength=153
+  Abalone                                        strength=153
+  Petz Horsez 2                                  strength=153
+  Abyss: The Wraiths of Eden                     strength=152
+  Adventure Park                                 strength=151
+  Big Thinkers 1st Grade                         strength=150
+  Putt-Putt and Fatty Bear's Activity Pack       strength=146
+  Age of Conan: Unchained                        strength=145
+
+Done.
