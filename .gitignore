@@ -33,7 +33,7 @@ Thumbs.db
 
 # PyTorch / checkpoints
 *.pt
-*.pth
+# *.pth
 
 # Miscelanous
 chat.txt
