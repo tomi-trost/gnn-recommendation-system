@@ -57,6 +57,12 @@ python main.py
 
 ---
 
+## Notebooks
+
+During development, multiple Jupyter notebook files were used experimentally to explore different approaches. For the final results, we primarily used [`combined_link_prediction.ipynb`](combined_link_prediction.ipynb), which was run on a **T4 GPU via Google Colab**.
+
+---
+
 ## Notes
 
 * Graph is modeled as a bipartite network (users ↔ items)

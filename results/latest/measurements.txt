@@ -1,0 +1,43 @@
+Evaluating preferential_attachment...
+chunks: 100%|██████████| 118/118 [00:13<00:00,  8.59it/s]
+  Recall=0.2297  NDCG=0.1837  MRR=0.3185  AUC=0.9635
+
+Evaluating jaccard...
+chunks: 100%|██████████| 118/118 [02:10<00:00,  1.10s/it]
+  Recall=0.3147  NDCG=0.2663  MRR=0.4320  AUC=0.9582
+
+Evaluating resource_allocation...
+chunks: 100%|██████████| 118/118 [02:07<00:00,  1.08s/it]
+  Recall=0.2733  NDCG=0.2141  MRR=0.3504  AUC=0.9611
+
+Evaluating heat_conduction...
+chunks: 100%|██████████| 118/118 [02:09<00:00,  1.10s/it]
+  Recall=0.2923  NDCG=0.2244  MRR=0.3575  AUC=0.9759
+
+Evaluating gnn_bce...
+chunks: 100%|██████████| 118/118 [00:19<00:00,  6.16it/s]
+  Recall=0.2547  NDCG=0.1811  MRR=0.2732  AUC=0.9735
+
+Evaluating gnn_bpr...
+chunks: 100%|██████████| 118/118 [00:19<00:00,  5.92it/s]
+  Recall=0.2446  NDCG=0.1745  MRR=0.2625  AUC=0.9708
+
+Evaluating gnn_playtime...
+chunks: 100%|██████████| 118/118 [00:19<00:00,  6.00it/s]
+  Recall=0.2460  NDCG=0.1764  MRR=0.2686  AUC=0.9739
+
+Evaluating GNN (20 epochs)...
+chunks: 100%|██████████| 118/118 [00:18<00:00,  6.23it/s]
+  Recall=0.2640  NDCG=0.1835  MRR=0.2662  AUC=0.9763
+
+Model                     | Recall@20  | NDCG@20    | MRR@20     | AUC       
+=============================================================================
+preferential_attachment   | 0.2297     | 0.1837     | 0.3185     | 0.9635    
+jaccard                   | 0.3147     | 0.2663     | 0.4320     | 0.9582    
+resource_allocation       | 0.2733     | 0.2141     | 0.3504     | 0.9611    
+heat_conduction           | 0.2923     | 0.2244     | 0.3575     | 0.9759    
+gnn_bce                   | 0.2547     | 0.1811     | 0.2732     | 0.9735    
+gnn_bpr                   | 0.2446     | 0.1745     | 0.2625     | 0.9708    
+gnn_playtime              | 0.2460     | 0.1764     | 0.2686     | 0.9739    
+gnn_20ep                  | 0.2640     | 0.1835     | 0.2662     | 0.9763    
+=============================================================================
